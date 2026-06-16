@@ -1,7 +1,7 @@
 # Nextchip-Team-Project
 # Nextchip Apache6 기반 실시간 지정차로 단속 및 V2X 관제 시스템
 
-Nextchip Apache6 SoM 보드의 NPU를 활용하여 지정차로 위반 차량을 실시간으로 단속하고, V2X 통신망을 통해 위험 이벤트(급제동 등)를 주변 차량에 초저지연으로 전파하는 C-ITS(차세대 지능형 교통시스템) 프로젝트입니다.
+Nextchip Apache6 SoM 보드의 NPU를 활용하여 지정차로 위반 차량을 실시간으로 단속하고, V2X 통신망을 통해 위험 이벤트(급제동 등)를 주변 차량에 초저지연으로 전파하는 프로젝트입니다.
 
 ## 🛠 Tech Stack
 * **Hardware:** Nextchip Apache6 SoM (12 TOPS NPU 가속기 탑재)
